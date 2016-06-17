@@ -1,0 +1,5 @@
+上传点为：http://www.douban.com/group/search" method="get上传方式为：get
+上传点为：http://www.douban.com/search" method="get上传方式为：get
+上传点为：http://www.douban.com/accounts/login上传方式为：post" action="http://www.douban.com/accounts/login
+上传点为：http://book.douban.com/subject_search" method="get上传方式为：get
+上传点为：http://movie.douban.com/subject_search" method="get上传方式为：get
